@@ -28,6 +28,7 @@ This is a **Restaurant Online Ordering Website** that allows customers to browse
 
 ## Folder Structure
 restaurant/
+
 │── index.html # Menu page
 
 │── cart.html # Cart & checkout page
