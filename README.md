@@ -28,7 +28,17 @@ This is a **Restaurant Online Ordering Website** that allows customers to browse
 
 ## Folder Structure
 restaurant/
-│── index.html # Menu page│── cart.html # Cart & checkout page│── save_order.php # Backend to save order│── db.php # Database connection│── admin.php # Admin orders dashboard│── orders.sql # MySQL table script
+│── index.html # Menu page
+
+│── cart.html # Cart & checkout page
+
+│── save_order.php # Backend to save order
+
+│── db.php # Database connection
+
+│── admin.php # Admin orders dashboard
+
+│── orders.sql # MySQL table script
 
 
 
