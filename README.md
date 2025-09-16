@@ -49,8 +49,8 @@ restaurant/
 - Fill customer details and click Place Order.
 - 
 ## Screenshots
-| Home Page        |  Add items to cart        |
+| Home Page        |  Go to Cart        |
 | ---------------------------------- | ------------------------------------ |
-|![Home_Page](https://github.com/janaki-217/Restaurant/blob/main/Home%20Page%201.png)||![Add_items_to_cart](https://github.com/janaki-217/Restaurant/blob/main/Go%20to%20Cart.png)|
+|![Home_Page](https://github.com/janaki-217/Restaurant/blob/main/Home%20Page%201.png)||![Go_to_Cart](https://github.com/janaki-217/Restaurant/blob/main/Go%20to%20Cart.png)|
 
 
