@@ -36,6 +36,5 @@ restaurant/
 │── orders.sql # MySQL table script
 
 
----
 
 
