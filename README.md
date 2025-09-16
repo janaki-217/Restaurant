@@ -47,7 +47,8 @@ restaurant/
 - Add items to cart.
 - Go to Cart page and update quantities.
 - Fill customer details and click Place Order.
-
+- 
+## Screenshots
 
 
 
