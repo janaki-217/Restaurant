@@ -49,6 +49,8 @@ restaurant/
 - Fill customer details and click Place Order.
 - 
 ## Screenshots
-
+| Home Page        |  Add items to cart        |
+| ---------------------------------- | ------------------------------------ |
+|![long_route png]|
 
 
