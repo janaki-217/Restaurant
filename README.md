@@ -51,6 +51,6 @@ restaurant/
 ## Screenshots
 | Home Page        |  Add items to cart        |
 | ---------------------------------- | ------------------------------------ |
-|![long_route png]|
+|![Home_Page](https://github.com/janaki-217/Restaurant/blob/main/Home%20Page.png)||![long_route png]()|
 
 
