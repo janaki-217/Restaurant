@@ -15,18 +15,14 @@ This is a **Restaurant Online Ordering Website** that allows customers to browse
 - Cart page: Update quantities, view subtotal and total.
 - Checkout form to place orders.
 
-### Admin Side
-- View all orders in a table format.
-- Each order shows item name, quantity, unit price, and subtotal.
-- Orders stored in **MySQL database**.
+
 
 ---
 
 ## Technology Stack
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
-- **Database:** MySQL
-- **Storage:** LocalStorage (for cart before checkout)
+  
 
 ---
 
