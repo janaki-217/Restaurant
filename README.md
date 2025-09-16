@@ -41,6 +41,13 @@ restaurant/
 
 │── orders.sql # MySQL table script
 
+## Usage
+
+- Open the Home Page (index.html).
+- Add items to cart.
+- Go to Cart page and update quantities.
+- Fill customer details and click Place Order.
+
 
 
 
