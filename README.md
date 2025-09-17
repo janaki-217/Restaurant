@@ -4,6 +4,9 @@
 This is a **Restaurant Online Ordering Website** that allows customers to browse menu items, add them to a cart, and place orders online. 
 
 ---
+The Products section is the online version of the restaurant menu, showing each dish as a product.
+The Add to Cart process lets customers pick their favorite dishes, adjust quantities, and finally move to checkout to place an order.
+
 
 ## Features
 
